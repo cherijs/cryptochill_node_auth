@@ -1,0 +1,29 @@
+{
+  "name": "cryptochill_node_auth",
+  "version": "1.0.0",
+  "description": "Example",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cherijs",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "js-base64": "^2.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherijs/cryptochill_node_auth.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/cherijs/cryptochill_node_auth/issues"
+  },
+  "homepage": "https://github.com/cherijs/cryptochill_node_auth#readme"
+}

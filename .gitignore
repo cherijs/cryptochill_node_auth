@@ -1,0 +1,16 @@
+*.py[co]
+*.egg*
+*.swp
+*~
+build
+*.db
+*.dump
+*.log
+*.lock
+._*
+node_modules
+bower_components
+.idea
+.DS_Store
+*.js.map
+.git_rev
